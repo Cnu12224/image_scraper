@@ -19,7 +19,7 @@ This script fetches the first image result from Google Images for a given keywor
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/image_scraper.git
+   git clone https://github.com/Cnu12224/image_scraper.git
    cd image_scraper
    ```
 
